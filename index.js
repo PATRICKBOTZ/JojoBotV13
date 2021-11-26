@@ -1,17 +1,9 @@
   /*Assalamualaikum Semua👋
 Bagi yang udah ambil sc ini, sebelum nya terima kasih sudah download:))
-Jangann lupa ya kasih tq to nama gua "Arasyaa", yang mau recode izin ke gua dulu aja https://wa.me/6281319944917
-
-Thanks To
-- Affis
+Jangann lupa ya kasih tq to nama gua "Arasyaa", yang mau recode izin ke gua dulu aja https://wa.me/6281319Affis
 - Rafli Rusdiana
 - Manik
-- Megumin Desu
-- Penyedia Rest api
-- Riyann
-- Arasyaaa
-- YogiPw
-- DappaUhuy
+- PATRICKBOTZ
 - Mhank Bar Bar
 
 arigatouuuuuuuu, selamat ngerun, klo eror jangan salahin gua jancuk*/
@@ -111,21 +103,21 @@ const _reminder = JSON.parse(fs.readFileSync("./database/reminder.json"));
 /*SETTINGGGGGGGG*/
 banChats = false;
 offline = false;
-targetpc = "6281319944917";
-gopay = "0882-1329-2687";
+targetpc = "6282244793747";
+gopay = "GK AD";
 limitawal = "20"
-ovo = "0882-1329-2687";
-pulsa = "0813-1994-4917";
-dana = "0813-1994-4917"
-namabot = "*Jojo-Bot*";
+ovo = "GK ADA";
+pulsa = "083119807354";
+dana = "GK ADA"
+namabot = "*PATRICKBOTZ*";
 linkimg = "https://telegra.ph/file/fb08daf350ee2092c200f.jpg";
 /*ITU YG DI ATAS LINK IMAGENYA DONASI DANA YA KAWAN*/
 grupct = "https://chat.whatsapp.com/HECLovHbCI6LVVH4Q8FN2C";
-owner = "6281319944917";
-nama_owner = "Arasyaaa";
-instagram = "sofunsyabi.id";
-yt = "https://youtube.com/channel/UCZzt-Qw0zTYc8UP-LL2G5fA";
-fake = "JOJO";
+owner = "6282244793747";
+nama_owner = "PATRICK BOTZ";
+instagram = "GK ADA";
+yt = "PATRICKBOTZ";
+fake = "® PATRICK BOTZ";
 thumb = fs.readFileSync("./stik/thumb.jpeg");
 numbernye = "0";
 waktu = "-";
